@@ -3,7 +3,7 @@
 <!--
 **steinate/Steinate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
+![](https://github-readme-stats.vercel.app/api?username=steinate)
 
 Here are some ideas to get you started:
 
