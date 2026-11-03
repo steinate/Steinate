@@ -102,7 +102,7 @@ My research sits at the intersection of **3D Vision** and **Embodied AI**, build
 ## 🌐 Connect With Me
 
 <div align="center">
-📧 Email: pengjq23 [at] mails.tsinghua.edu.cn
+📧 Email: pjq23 [at] mails.tsinghua.edu.cn
 🌐 Site: https://steinate.github.io
 📍 Location: Beijing / Shanghai, China
 </div>
